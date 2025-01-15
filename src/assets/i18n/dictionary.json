@@ -1,0 +1,158 @@
+{
+  "home": {
+    "hr": "Početna",
+    "en": "Home"
+  },
+  "services": {
+    "hr": "Usluge",
+    "en": "Services"
+  },
+  "offers": {
+    "hr": "Ponude",
+    "en": "Offers"
+  },
+  "invoices": {
+    "hr": "Računi",
+    "en": "Invoices"
+  },
+  "customers": {
+    "hr": "Kupci",
+    "en": "Customers"
+  },
+  "page_not_found": {
+    "hr": "Stranica nije pronađena!",
+    "en": "We couldn't find that page!"
+  },
+  "name": {
+    "hr": "Naziv",
+    "en": "Name"
+  },
+  "description": {
+    "hr": "Opis",
+    "en": "Description"
+  },
+  "price": {
+    "hr": "Cijena",
+    "en": "Price"
+  },
+  "action": {
+    "hr": "Akcija",
+    "en": "Action"
+  },
+  "add": {
+    "hr": "Dodaj",
+    "en": "Add"
+  },
+  "add_service": {
+    "hr": "Dodaj uslugu",
+    "en": "Add service"
+  },
+  "add_offer": {
+    "hr": "Dodaj ponudu",
+    "en": "Add offer"
+  },
+  "customer": {
+    "hr": "Kupac",
+    "en": "Customer"
+  },
+  "created": {
+    "hr": "Kreirano",
+    "en": "Created"
+  },
+  "service": {
+    "hr": "Usluga",
+    "en": "Service"
+  },
+  "customers_firstname": {
+    "hr": "Ime kupca",
+    "en": "Customers first name"
+  },
+  "customers_lastname": {
+    "hr": "Prezime kupca",
+    "en": "Customers last name"
+  },
+  "service_code": {
+    "hr": "Šifra usluge",
+    "en": "Service code"
+  },
+  "offer_number": {
+    "hr": "Broj ponude",
+    "en": "Offer number"
+  },
+  "edit_service": {
+    "hr": "Uredi uslugu",
+    "en": "Edit service"
+  },
+  "edit_offer": {
+    "hr": "Uredi ponudu",
+    "en": "Edit offer"
+  },
+  "firstname": {
+    "hr": "Ime",
+    "en": "First name"
+  },
+  "lastname": {
+    "hr": "Prezime",
+    "en": "Last name"
+  },
+  "email": {
+    "hr": "Email",
+    "en": "Email"
+  },
+  "mobilephone": {
+    "hr": "Broj mobitela",
+    "en": "Mobilephone"
+  },
+  "address": {
+    "hr": "Adresa",
+    "en": "Address"
+  },
+  "city": {
+    "hr": "Grad",
+    "en": "City"
+  },
+  "zip": {
+    "hr": "Poštanski broj",
+    "en": "ZIP"
+  },
+  "add_customer": {
+    "hr": "Dodaj kupca",
+    "en": "Add customer"
+  },
+  "invoice_number": {
+    "hr": "Broj računa",
+    "en": "Invoice number"
+  },
+  "add_invoice": {
+    "hr": "Dodaj račun",
+    "en": "Add invoice"
+  },
+  "edit_customer": {
+    "hr": "Uredi kupca",
+    "en": "Edit customer"
+  },
+  "search_customer": {
+    "hr": "Pronađi kupca",
+    "en": "Search customer"
+  },
+  "no_offers_available": {
+    "hr": "Trenutno nema dostupnih ponuda.",
+    "en": "No offers available at the moment."
+  },
+  "no_invoices_available": {
+    "hr": "Trenutno nema dostupnih računa.",
+    "en": "No invoices available at the moment."
+  },
+  "no_services_available": {
+    "hr": "Trenutno nema dostupnih usluga.",
+    "en": "No services available at the moment."
+  },
+  "no_customers_available": {
+    "hr": "Trenutno nema dostupnih kupaca.",
+    "en": "No customers available at the moment."
+  },
+  "intro_title": {
+    "hr": "Računi Kos",
+    "en": "Računi Kos"
+  }
+}

@@ -1,0 +1,15 @@
+.flag-icon {
+  width: 24px;
+  height: auto;
+  cursor: pointer;
+}
+
+.navbar-nav .nav-link {
+  color: white;
+  transition: text-decoration 0.3s;
+}
+
+.navbar-nav .nav-link:hover {
+  text-decoration: underline;
+  text-underline-offset: 5px;
+}
